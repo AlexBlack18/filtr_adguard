@@ -115,18 +115,6 @@ _pagespeed_beacon?
 ~rambler.ru##a[href*="rambler.ru/top100/"]
 ~rambler.ru##a[href*="top100.rambler.ru/"]
 ~vtambove.ru##a[href="http://vtambove.ru/advert/banner_network/"]
-##a[href^="http://click.hotlog.ru/"]
-##a[href^="http://hitcounter.ru/top/stat.php"]
-##a[href^="https://prime.rambler.ru/promo/"]
-##a[title="TopTracker.Ru - Рейтинг трекеров."]
-##img[src*="//counter.yadro.ru/"]
-##img[src*="://c.bigmir.net/"]
-##img[src*="://r.i.ua/"]
-##img[src*="cycounter"][width="88"][height="31"]
-##img[src*="top.mail.ru/counter?"]
-##img[src^="/stat/"][width="88"][height="31"]
-##img[style*="//counter.yadro.ru/"]
-##img[title="bigmir)net TOP 100"]
 //stats.myangular.life^$third-party
 /cdn-cgi/apps/head/*$script,~third-party
 /cdn-cgi/bm/cv/*.js$script
