@@ -24,20 +24,6 @@ cloud.mail.ru##a.x-ph__link:nth-of-type(5)
 cloud.mail.ru##a.x-ph__link:nth-of-type(4) > .x-ph__link__text
 cloud.mail.ru##a.x-ph__link:nth-of-type(4)
 cloud.mail.ru##.x-ph__link_first.x-ph__link
-aliexpress.ru##.top-banner-container > [href^="//campaign.aliexpress.com/wow/gf/upr-daily"]
-aliexpress.ru##.top-banner-container
-aliexpress.ru##.multi-sidebar-tab
-aliexpress.ru##.sf-download-app
-aliexpress.ru##.site-footer
-aliexpress.ru##.footer-copywrite > .container
-aliexpress.ru##.footer-copywrite
-aliexpress.ru##.site-server-box
-aliexpress.ru##.global-seller-menu.ng-seller.ng-sub.ng-item > .ng-sub-title
-aliexpress.ru##.ng-seller-wrap.ng-item-wrap
-aliexpress.ru##[href^="//sale.aliexpress.ru/download_app_guide.htm"]
-home.aliexpress.ru##.mobile-app.me-ui-box
-||ae01.alicdn.com/kf/Hb2e9994f66b34614bb4c795a9da9a503r.png$image
-home.aliexpress.ru##.ng-mobile.ng-item
 ||as.dns-shop.ru/assets/d00224c9/images/valentines-day-2020/md-min.jpg$image
 www.dns-shop.ru##.valentines-day-2020.head-promo-banner
 ||c.dns-shop.ru/original/st1/72fef3ae745942cfddb196e7d194d133/ffbee4ea7314b684af029681f9c1acf098af6ea70d3680ee684ad679aa2e10a1.jpg$image
@@ -51,16 +37,6 @@ wp-seven.ru##.gp
 ||wp-seven.ru/wp-content/themes/wpseven/images/menu.png$image
 wp-seven.ru##.tw
 ||wp-seven.ru/wp-content/themes/wpseven/images/menu.png$image
-wp-seven.ru##.fb
-www.wincore.ru##.box1
-www.wincore.ru##div.box:nth-of-type(6)
-web.archive.org###nav-abouts
-web.archive.org##.iconochive-facebook
-web.archive.org##.feedback_button.btn-sm.btn-primary.btn
-web.archive.org##.iconochive-twitter
-web.archive.org##.beta_button
-web.archive.org##div.web_capture:nth-of-type(8)
-web.archive.org##div.web_capture:nth-of-type(11)
 m.vk.com##.mmi_recommended > .al_menu.mm_item > .mmi_wrap
 m.vk.com##.mmi_recommended > .al_menu.mm_item
 m.vk.com##.mmi_likes > .al_menu.mm_item
@@ -133,57 +109,6 @@ www.ferra.ru##div:nth-of-type(2) > article > div:nth-of-type(2) > ._2upSGvRjUNOU
 ||ferra.media.eagleplatform.com/index/player?record_id=1367948&player_template_id=10735$subdocument
 www.ferra.ru##div:nth-of-type(2) > article > div:nth-of-type(2) > ._2upSGvRjUNOUWsV29m2wYz > ._3AWI_0TSKcjc5YXi9Bshpb.LZ8QijViLH9d28x8GarhA.block.jsx-342425262 > ._2upSGvRjUNOUWsV29m2wYz > ._3AWI_0TSKcjc5YXi9Bshpb.LZ8QijViLH9d28x8GarhA.block.jsx-342425262 > div:nth-of-type(4) > div:nth-of-type(2) > .rambler-share > div:nth-of-type(1)
 www.ferra.ru##div:nth-of-type(2) > article > div:nth-of-type(2) > ._2upSGvRjUNOUWsV29m2wYz > ._3AWI_0TSKcjc5YXi9Bshpb.LZ8QijViLH9d28x8GarhA.block.jsx-342425262 > ._2upSGvRjUNOUWsV29m2wYz > ._3AWI_0TSKcjc5YXi9Bshpb.LZ8QijViLH9d28x8GarhA.block.jsx-342425262 > div:nth-of-type(4) > div:nth-of-type(2) > .rambler-share > div:nth-of-type(4)
-
-! 13.02.2020 https://www.pspx.ru
-www.pspx.ru##table:nth-of-type(2) > tbody > tr > td > table > tbody > tr > td:nth-of-type(1)
-||www.pspx.ru/forum/images/panel_right.png$image
-www.pspx.ru##td:nth-of-type(4) > .gm
-www.pspx.ru##td:nth-of-type(2) > table > tbody > tr > td:nth-of-type(4)
-
-! 13.02.2020 https://onlineguru.ru
-onlineguru.ru##.warning-cookie-inner
-
-! 13.02.2020 https://caniplay.ru
-caniplay.ru###top_head_share > .ya-share2_inited.ya-share2 > .ya-share2__container_size_m.ya-share2__container > .ya-share2__list_direction_horizontal.ya-share2__list > .ya-share2__item_service_moimir.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
-caniplay.ru###top_head_share > .ya-share2_inited.ya-share2 > .ya-share2__container_size_m.ya-share2__container > .ya-share2__list_direction_horizontal.ya-share2__list > .ya-share2__item_service_facebook.ya-share2__item > .ya-share2__link > .ya-share2__badge > .ya-share2__icon
-
-! 13.02.2020 https://www.game01.ru
-||www.game01.ru/images/i/iconsFull.png$image
-www.game01.ru##div.footerLinks:nth-of-type(2) > .iconMM.socIcons
-||www.game01.ru/images/i/iconsFull.png$image
-www.game01.ru##.iconTW.socIcons
-
-! 13.02.2020 https://myip.ru
-myip.ru##[href="https://www.netup.tv"]
-myip.ru##[href^="https://www.netup.ru/Autonomous_System_Registration.php"]
-myip.ru##.copy
-
-! 13.02.2020 https://forum.ru-board.com
-forum.ru-board.com##center:nth-of-type(1)
-
-! 13.02.2020 https://strelec.ucoz.ru
-strelec.ucoz.ru##table:nth-of-type(7) > tbody > tr:nth-of-type(2) > td
-||strelec.ucoz.ru/.s/t/431/26.gif$image
-strelec.ucoz.ru##table:nth-of-type(7) > tbody > tr:nth-of-type(1) > td > b
-strelec.ucoz.ru##table:nth-of-type(7) > tbody > tr:nth-of-type(1) > td
-||strelec.ucoz.ru/.s/t/431/27.gif$image
-||chasovnya.msk.ru/min_icon.jpg$image
-
-! 13.02.2020 https://tb.rg-adguard.net
-tb.rg-adguard.net##.down
-||tb.rg-adguard.net/img/donate.png$image
-||nick-name.ru/img.php?nick=adguard&sert=23&text=t4$image
-||tb.rg-adguard.net/img/like.png$image
-tb.rg-adguard.net##[href^="thanks.php"]
-tb.rg-adguard.net##[href^="donate.php"]
-
-! 13.02.2020 https://uup.rg-adguard.net
-||uup.rg-adguard.net/img/rss.png$image
-
-! 13.02.2020 https://tproger.ru
-||cdn.tproger.ru/wp-content/themes/bliss/assets/img/spritesheet7.png$image
-tproger.ru##.sprite-fb.sprite.social_b
-
 ! 13.02.2020 https://mail.ru
 mail.ru##a.projects-item.o-media:nth-of-type(2) > .projects-item__body
 mail.ru##a.projects-item.o-media:nth-of-type(2)
@@ -224,29 +149,6 @@ vk.com##.dev_main_platform_icon_ios.dev_main_platform_icon
 vk.com##a.dev_main_platform:nth-of-type(1) > .dev_main_platform_title
 vk.com##div.fl_l.dev_main_footer_section:nth-of-type(2) > .dev_main_footer_section_links > li.dev_main_footer_section_link:nth-of-type(1)
 vk.com##a.bnav_a:nth-of-type(4)
-
-! 13.02.2020 https://sosedopedia.fandom.com
-sosedopedia.fandom.com##.notify.wds-message.wds-banner-notification
-sosedopedia.fandom.com##.wds-is-fandom-apps.wds-global-footer__section
-sosedopedia.fandom.com##div.wds-global-footer__column:nth-of-type(4)
-sosedopedia.fandom.com##.wds-is-advertise.wds-global-footer__section
-sosedopedia.fandom.com##.wds-is-follow-us.wds-global-footer__section > .wds-global-footer__links-list > li.wds-global-footer__links-list-item:nth-of-type(1)
-sosedopedia.fandom.com###wds-icons-twitter > use
-sosedopedia.fandom.com###wds-icons-twitter
-sosedopedia.fandom.com##.wds-is-follow-us.wds-global-footer__section > .wds-global-footer__links-list > li.wds-global-footer__links-list-item:nth-of-type(2) > .wds-global-footer__link
-
-! 13.02.2020 https://dc.fandom.com
-dc.fandom.com##div.wds-global-footer__column:nth-of-type(4)
-
-! 13.02.2020 https://habr.com
-habr.com##div.footer-block.footer-grid__item:nth-of-type(4) > .footer-block__content > .footer-menu > li.footer-menu__item:nth-of-type(1)
-habr.com##div.footer-block.footer-grid__item:nth-of-type(4) > .footer-block__content > .footer-menu > li.footer-menu__item:nth-of-type(2)
-habr.com##.social-icons__item-link_twitter.social-icons__item-link_normal.social-icons__item-link
-habr.com##.social-icons__item-link_facebook.social-icons__item-link_normal.social-icons__item-link
-habr.com##div.footer-grid__item_link.footer-grid__item:nth-of-type(5)
-
-! 13.02.2020 https://gcup.ru
-||gcup.ru/dis/pda.png$image
 
 ! 13.02.2020 https://icon-icons.com
 icon-icons.com###navbar
@@ -291,9 +193,6 @@ www.flaticon.com##div.fi-not-premium.tooltip--box.tooltip--bottom-left.tooltip.r
 www.flaticon.com###collections-toggle > .flaticon-collections
 www.flaticon.com###collections-toggle
 www.flaticon.com##.text-inverted.btn-outline.btn-gray.btn.popover-button
-
-! 13.02.2020 https://gta-real.com
-||web.archive.org/web/20190828133634im_/https://gta-real.com/335.gif$image
 
 ! 13.02.2020 https://translate.yandex.ru
 translate.yandex.ru##.footer-line_promo.footer-line
@@ -363,42 +262,6 @@ www.kinopoisk.ru##.flag2.flag.movie-info__flag
 www.kinopoisk.ru##.footerk0ntw529uk0yg299q79_footer-width_default.footerk0ntw529uk0yg299q79_footer-theme_default.footerk0ntw529uk0yg299q79
 www.kinopoisk.ru##.watch-on-hd-block.section
 www.kinopoisk.ru##.cinema-week-review.section
-
-! 13.02.2020 https://www.bing.com
-www.bing.com##.sw_lang
-www.bing.com###dots_overflow_menu_container
-www.bing.com##.scopebar_link
-www.bing.com##li.item:nth-of-type(3) > [href^="//go.microsoft.com/fwlink/"]
-www.bing.com###privacy
-www.bing.com###sb_advertise
-www.bing.com###langChange > [href^="/search"]
-www.bing.com###HBContent > a.hb_section:nth-of-type(3)
-www.bing.com###sb_adinfo
-www.bing.com###sb_privacy
-www.bing.com###langChange > [href^="/account/general"]
-
-! 13.02.2020 https://randstuff.ru
-||vk.com/widget_community.php?app=0&width=200px&_ver=1&gid=60549401&mode=0&color1=FFFFFF&color2=b30000&color3=000000&class_name=&height=320&url=https%3A%2F%2Frandstuff.ru%2F&referrer=&title=RandStuff.ru%20-%20%D0%BC%D0%B5%D1%81%D1%82%D0%BE%2C%20%D0%B3%D0%B4%D0%B5%20%D0%B6%D0%B8%D0%B2%D0%B5%D1%82%20%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%BE%D1%81%D1%82%D1%8C&1703fa4594e$subdocument
-randstuff.ru###vkrs
-randstuff.ru##.contacts > .title
-||yandex.st/share/static/b-share-icons__theme_counter.png$image
-randstuff.ru##.b-share-icon_gplus.b-share-icon
-||yandex.st/share/static/b-share-icons__theme_counter.png$image
-randstuff.ru##.b-share-icon_moimir.b-share-icon
-||yandex.st/share/static/b-share-icons__theme_counter.png$image
-randstuff.ru##.b-share-icon_facebook.b-share-icon
-||randstuff.ru/public/images/logo.png$image
-||randstuff.ru/public/images/logo.png$image
-randstuff.ru##[href="/"]
-randstuff.ru##.submenu > .item
-||ulogin.ru/version/3.0/img/providers-32-classic.png?version=img.3.0.1$image
-randstuff.ru##.ulogin-button-mailru
-||ulogin.ru/version/3.0/img/providers-32-classic.png?version=img.3.0.1$image
-randstuff.ru##.ulogin-button-facebook
-||ulogin.ru/version/3.0/img/providers-32-classic.png?version=img.3.0.1$image
-randstuff.ru##.ulogin-button-googleplus
-||ulogin.ru/version/3.0/img/providers-32-classic.png?version=img.3.0.1$image
-randstuff.ru##.ulogin-button-twitter
 
 ! 13.02.2020 https://telegrambot.biz
 telegrambot.biz##.media-body
@@ -471,35 +334,6 @@ vscode.ru##.ya-share2__item_service_viber.ya-share2__item > .ya-share2__link > .
 ! 13.02.2020 https://gdeposylka.ru
 gdeposylka.ru##[href="/go/cashback/md/index"]
 gdeposylka.ru##[href="/top-products"] > span
-
-! 13.02.2020 https://youla.ru
-youla.ru##li:nth-of-type(2) > .eVgERt.sc-puFxT.gUFtHj.sc-fzqOul
-youla.ru##li:nth-of-type(1) > .eVgERt.sc-puFxT.gUFtHj.sc-fzqOul
-youla.ru##.fyIXna.sc-pITNg > li.dzzIaL.sc-pQsrT:nth-of-type(3) > .gvCEFW.sc-pYNsO.sc-fzqARJ > .gTJBMA.sc-pTHAw.sc-pKMan
-youla.ru##.fyIXna.sc-pITNg > li.dzzIaL.sc-pQsrT:nth-of-type(4) > .gvCEFW.sc-pYNsO.sc-fzqARJ > .esDQgU.sc-pCPXO.sc-qYsuA
-youla.ru##.fyIXna.sc-pITNg > li.dzzIaL.sc-pQsrT:nth-of-type(5) > .gvCEFW.sc-pYNsO.sc-fzqARJ > .gtMhkD.sc-qbDCV > path:nth-of-type(1)
-youla.ru##.fyIXna.sc-pITNg > li.dzzIaL.sc-pQsrT:nth-of-type(5) > .gvCEFW.sc-pYNsO.sc-fzqARJ > .gtMhkD.sc-qbDCV
-youla.ru##a.dbcjlo.sc-pABXN.jSRhcL.sc-fzqOul:nth-of-type(2)
-youla.ru##.gGyubd.sc-qQuMn
-youla.ru##.bclJUr.sc-fzoKki.sc-fzqBkg.sc-fzolEj > .dsbjFr.sc-pITNg > li.dzzIaL.sc-pQsrT:nth-of-type(4) > .gvCEFW.sc-pYNsO.sc-fzqARJ > .esDQgU.sc-pCPXO.sc-qYsuA
-youla.ru##.bclJUr.sc-fzoKki.sc-fzqBkg.sc-fzolEj > .dsbjFr.sc-pITNg > li.dzzIaL.sc-pQsrT:nth-of-type(3) > .gvCEFW.sc-pYNsO.sc-fzqARJ > .gTJBMA.sc-pTHAw.sc-pKMan
-youla.ru##.hHGKwK.sc-fzoKki.sc-fzqBkg.sc-fzolEj > div.dyfpCa.sc-fzoxKX.sc-fzolEj:nth-of-type(2)
-youla.ru##div.dyfpCa.sc-fzoxKX.sc-fzolEj:nth-of-type(3)
-youla.ru##.gmldoY.sc-oVpqz.dsbjFr.sc-pITNg > li.dzzIaL.sc-pQsrT:nth-of-type(3) > .gvCEFW.sc-pYNsO.sc-fzqARJ > .gTJBMA.sc-pTHAw.sc-pKMan
-youla.ru##.gmldoY.sc-oVpqz.dsbjFr.sc-pITNg > li.dzzIaL.sc-pQsrT:nth-of-type(4) > .gvCEFW.sc-pYNsO.sc-fzqARJ > .esDQgU.sc-pCPXO.sc-qYsuA
-youla.ru##.gtMhkD.sc-qbDCV > path:nth-of-type(1)
-youla.ru##a.ifXmec.sc-qcrrk.sc-fzoJMP:nth-of-type(3) > .eTuTmp.sc-AxjAm
-youla.ru##.gtMhkD.sc-qbDCV
-youla.ru##.icon--share-fb.icon
-youla.ru##.icon--share-twi.icon
-youla.ru##.icon--share-yt.icon
-youla.ru##.share__item--fb.share__item > .share__link
-youla.ru##.share__item--yt.share__item > .share__link
-youla.ru##.share__item--tw.share__item > .share__link
-youla.ru##div.dxUVmm.sc-prrCP.sc-fzoKki.sc-fzqBkg.sc-fzolEj:nth-of-type(4) > div.gLxEiP.sc-fzoxKX.sc-fzolEj:nth-of-type(1) > .epibOo.sc-pcYTN.sc-qPJtC
-youla.ru##div.dxUVmm.sc-prrCP.sc-fzoKki.sc-fzqBkg.sc-fzolEj:nth-of-type(4) > div.gLxEiP.sc-fzoxKX.sc-fzolEj:nth-of-type(1)
-youla.ru##div.dxUVmm.sc-prrCP.sc-fzoKki.sc-fzqBkg.sc-fzolEj:nth-of-type(1) > div.gLxEiP.sc-fzoxKX.sc-fzolEj:nth-of-type(3) > .epibOo.sc-pcYTN.sc-qPJtC
-youla.ru##div.dxUVmm.sc-prrCP.sc-fzoKki.sc-fzqBkg.sc-fzolEj:nth-of-type(1) > div.gLxEiP.sc-fzoxKX.sc-fzolEj:nth-of-type(3)
 
 ! 14.02.2020 https://yandex.ru
 yandex.ru##.head-promo-plus__icon
